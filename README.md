@@ -1,2 +1,2 @@
 # Project-Generator
-A simple python script thats helps you generate html css js files 
+An easy to use python script thats helps you generate html css js files 
